@@ -1,0 +1,16 @@
+{
+  "name": "booking-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Monir Khan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
